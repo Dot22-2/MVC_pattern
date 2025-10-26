@@ -15,7 +15,7 @@ This repository demonstrates a clean implementation of the **Model-View-Controll
 
 ### Requirements
 
-- **Compiler**: Tested with `g++ 11.4.0` and `MSVC v143` (Visual Studio 2022)
+- **Compiler**: Tested with `g++ 11.4.0` and `MSVC v19.44` (Visual Studio 2022)
 - **C++ Standard**: C++17 or higher
 
 ---
